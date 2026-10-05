@@ -272,16 +272,16 @@
     };
 
     const GAME_OVER_MESSAGES = [
-        "CUPU LU BRO!",
-        "GAME OVER! SKILL ISSUE!",
-        "KALAH LAGI? PAYAH!",
-        "COBA LAGI DEH, MASA KALAH SAMA GAME BOCIL!",
-        "ULAR AJA BISA MAKAN, KAMU KOK KALAH?",
-        "UDAH KALAH, GAUSAH NANGIS!",
-        "NEXT TIME PAKE OTAK YA!",
-        "ULAR: 1, KAMU: 0",
-        "MUNGKIN GAME INI TERLALU SUSAH BUAT KAMU",
-        "COBA MAIN EPEP AJA DEH!",
+        "SORRY YOU LOSE!",
+        "YOU LOSE!",
+        "OOPS, YOU LOSE!",
+        "ALMOST GOT IT!",
+        "BETTER LUCK NEXT TIME!",
+        "DON'T WORRY, TRY AGAIN!",
+        "SO CLOSE! ONE MORE TRY?",
+        "YOU CAN DO IT!",
+        "PRACTICE MAKES PERFECT!",
+        "NEVER GIVE UP!",
     ];
 
     const over = {
